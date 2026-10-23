@@ -1,0 +1,39 @@
+@media (max-width: 640px) {
+  .featured-card {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-img {
+    aspect-ratio: 16 / 9;
+  }
+
+  .proj-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .exp-row,
+  .edu-row {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+
+  .hero-headline {
+    font-size: 1.45rem;
+  }
+
+  nav {
+    padding: 0 1rem;
+  }
+
+  .container {
+    padding: 0 1rem;
+  }
+
+  .nav-links a {
+    padding: 0.35rem 0.5rem;
+  }
+}

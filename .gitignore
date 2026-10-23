@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+.vscode
+.idea
+*.local
+_extract.js
+_body.html
